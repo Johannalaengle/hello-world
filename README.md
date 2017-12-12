@@ -1,3 +1,3 @@
 # hello-world
 
-Hi I'm Johanna from Austrai!
+Hi I'm Johanna from Austria!
