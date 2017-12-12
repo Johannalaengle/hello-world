@@ -1,2 +1,3 @@
 # hello-world
-my first project on GitHub
+
+Hi I'm Johanna from Austrai!
